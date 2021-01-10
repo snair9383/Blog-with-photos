@@ -1,5 +1,7 @@
 body{
     text-align: center;
     background-color: dodgerblue;
-    height: 30px;
+}
+img{
+    height: 400px;
 }
